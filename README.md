@@ -32,3 +32,6 @@ Once you have finished playing the game, please decline the prompt to play again
 Enjoy!
 
 
+Deployed URL: https://novalancebrittany.github.io/rock-papper-scissors/
+
+Repo: https://github.com/NovaLanceBrittany/rock-papper-scissors
